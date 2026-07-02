@@ -1,4 +1,4 @@
-name: Diabetes Project CI
+name: Diabetes Prediction Project
 
 on:
   push:
