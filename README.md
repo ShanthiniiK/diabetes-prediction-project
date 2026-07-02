@@ -8,3 +8,9 @@ Models:
 
 Dataset:
 Diabetes Prediction Dataset
+
+## Sprint 3 Improvements
+
+- SMOTE
+- Hyperparameter tuning
+- XGBoost
